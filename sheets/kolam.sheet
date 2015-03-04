@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Kolam</name>
+  <description>South Indian Art Form</description>
+  <contents>
+  <!--add shapes here-->
+    <object name="kolam - zero">
+      <description>One</description>
+    </object>
+    <object name="kolam - one1">
+      <description>One</description>
+    </object>
+    <object name="kolam - one2">
+      <description>One</description>
+    </object>
+    <object name="kolam - two1">
+      <description>Two</description>
+    </object>
+    <object name="kolam - two2">
+      <description>Two</description>
+    </object>
+    <object name="kolam - two3">
+      <description>Two</description>
+    </object>
+    <object name="kolam - three1">
+      <description>Three</description>
+    </object>
+    <object name="kolam - three2">
+      <description>Three</description>
+    </object>
+    <object name="kolam - four">
+      <description>Four</description>
+    </object>
+  </contents>
+</sheet>

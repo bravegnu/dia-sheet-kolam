@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>kolam - three1</name>
+  <icon>three1.png</icon>
+  <connections>
+    <point x="3" y="0"/>
+    <point x="6" y="3"/>
+    <point x="3" y="6"/>
+    <point x="0" y="3"/>
+    <point x="4.5" y="1.5"/>
+    <point x="4.5" y="4.5"/>
+    <point x="1.5" y="4.5"/>
+    <point x="3.0125" y="3.25"/>
+    <point x="3.0125" y="2.75"/>
+    <point x="2.7625" y="3"/>
+    <point x="3.2625" y="3"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #ffffff" points="3,0 6,3 3,6 0,3 "/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 1.0; stroke: #000000" d="M 0 3 C 3,6 2,5 3,6 C 5,4 5,2 3,0 C 1,2 1,2 0,3"/>
+    <svg:ellipse style="fill: #000000" cx="3.0125" cy="3" rx="0.25" ry="0.25"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" cx="3.0125" cy="3" rx="0.25" ry="0.25"/>
+  </svg:svg>
+</shape>
